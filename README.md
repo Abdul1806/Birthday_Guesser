@@ -1,1 +1,1 @@
-This is a Birthday Guessing game. You will answer whether your birthday is in a list and it will guess your birthday... Honestly the whole point of this is to improve git skills
+Given 5 sets of birthdays ranging from 1-31 we will guess your birthday using Boolean Algebra. 
